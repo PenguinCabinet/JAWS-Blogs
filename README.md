@@ -4,6 +4,9 @@
 ## あなたの参加記を追加しましょう
 記事一覧のフォーマットは「\[記事名(名前)\]\(https://example.com )」です。
 
+## [JAWS DAYS 2026](https://jawsdays2026.jaws-ug.jp/)
+* [JAWS DAYS ボランティア参加記と入口警備のTIPS(ペンギン内閣)](https://qiita.com/PenguinCabinet/items/ed0600e947aae9121680)
+
 ## [JAWS FESTA 2025 in 金沢](https://jawsfesta2025.jaws-ug.jp/)
 * [JAWS FESTA 2025 in 金沢に参加した！〜Day1セッション聴講＆登壇＆スタッフ〜(エイミ/amixedcolor)](https://zenn.dev/relic_tech/articles/9ed743152903ef)
 

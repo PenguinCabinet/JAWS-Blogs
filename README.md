@@ -1,5 +1,5 @@
 # JAWS ボランティア 参加記集
-[JAWS DAYS,DAWS FESTA](https://jaws-ug.jp/previous-events/)のボランティア参加記などを集めた**非公式**リポジトリです。
+[JAWS DAYS,JAWS FESTA](https://jaws-ug.jp/previous-events/)のボランティア参加記などを集めた**非公式**リポジトリです。
 
 ## あなたの参加記を追加しましょう
 記事一覧のフォーマットは「\[記事名(名前)\]\(https://example.com )」です。

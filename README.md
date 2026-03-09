@@ -15,6 +15,7 @@
 * [JAWS DAYS 2025 ボランティアスタッフ参加報告(たなべ。)](https://iret.media/147384)
 * [【参加レポ】JAWS DAYS 2025にボランティアとして参加してみた〜オープニングまで編(keita)](https://note.com/keitafukui/n/n39ffd3b26797)
 * [初めてのJAWSボランティア活動目録 ～JAWS DAYS 2025～ / 20260131 Mitsutoshi Matsuo(松尾 光敏)](https://speakerdeck.com/shift_evolve/20260131-mitsutoshi-matsuo)
+* [JAWS DAYS 2025 感想レポート(てつてつ)](https://qiita.com/tetutetu214/items/2febbfdddd8466e9aab8)
 
 ## [JAWS DAYS 2024](https://jawsdays2024.jaws-ug.jp/)
 * [初のオフラインJAWS DAYS参加で当日スタッフをやって衝撃を受けた話(べこみん)](https://zenn.dev/becominn/articles/19c596903317e8)
